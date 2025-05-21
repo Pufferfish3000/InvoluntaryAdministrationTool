@@ -1,0 +1,3 @@
+[submodule "external/bearssl"]
+	path = external/bearssl
+	url = https://www.bearssl.org/git/BearSSL
